@@ -2,3 +2,5 @@
 
 
 ble ble ble
+
+Zmiana pliku z git'a
